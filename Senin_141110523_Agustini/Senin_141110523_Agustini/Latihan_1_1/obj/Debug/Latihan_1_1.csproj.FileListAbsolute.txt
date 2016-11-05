@@ -1,0 +1,9 @@
+E:\141110523-AGUSTINI\SEMESTER V\Framework\Senin_141110523_Agustini\Latihan_1_1\bin\Debug\Latihan_1_1.exe.config
+E:\141110523-AGUSTINI\SEMESTER V\Framework\Senin_141110523_Agustini\Latihan_1_1\bin\Debug\Latihan_1_1.exe
+E:\141110523-AGUSTINI\SEMESTER V\Framework\Senin_141110523_Agustini\Latihan_1_1\bin\Debug\Latihan_1_1.pdb
+E:\141110523-AGUSTINI\SEMESTER V\Framework\Senin_141110523_Agustini\Latihan_1_1\obj\Debug\Latihan_1_1.csprojResolveAssemblyReference.cache
+E:\141110523-AGUSTINI\SEMESTER V\Framework\Senin_141110523_Agustini\Latihan_1_1\obj\Debug\Latihan_1_1.Form1.resources
+E:\141110523-AGUSTINI\SEMESTER V\Framework\Senin_141110523_Agustini\Latihan_1_1\obj\Debug\Latihan_1_1.Properties.Resources.resources
+E:\141110523-AGUSTINI\SEMESTER V\Framework\Senin_141110523_Agustini\Latihan_1_1\obj\Debug\Latihan_1_1.csproj.GenerateResource.Cache
+E:\141110523-AGUSTINI\SEMESTER V\Framework\Senin_141110523_Agustini\Latihan_1_1\obj\Debug\Latihan_1_1.exe
+E:\141110523-AGUSTINI\SEMESTER V\Framework\Senin_141110523_Agustini\Latihan_1_1\obj\Debug\Latihan_1_1.pdb

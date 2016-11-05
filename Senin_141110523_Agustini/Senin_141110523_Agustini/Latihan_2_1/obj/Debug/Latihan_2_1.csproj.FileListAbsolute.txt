@@ -1,0 +1,18 @@
+E:\141110523-AGUSTINI\SEMESTER V\Framework\Senin_141110523_Agustini\Latihan_2_1\bin\Debug\Latihan_2_1.exe.config
+E:\141110523-AGUSTINI\SEMESTER V\Framework\Senin_141110523_Agustini\Latihan_2_1\obj\Debug\Latihan_2_1.Form1.resources
+E:\141110523-AGUSTINI\SEMESTER V\Framework\Senin_141110523_Agustini\Latihan_2_1\obj\Debug\Latihan_2_1.Properties.Resources.resources
+E:\141110523-AGUSTINI\SEMESTER V\Framework\Senin_141110523_Agustini\Latihan_2_1\obj\Debug\Latihan_2_1.csproj.GenerateResource.Cache
+E:\141110523-AGUSTINI\SEMESTER V\Framework\Senin_141110523_Agustini\Latihan_2_1\bin\Debug\Latihan_2_1.exe
+E:\141110523-AGUSTINI\SEMESTER V\Framework\Senin_141110523_Agustini\Latihan_2_1\bin\Debug\Latihan_2_1.pdb
+E:\141110523-AGUSTINI\SEMESTER V\Framework\Senin_141110523_Agustini\Latihan_2_1\obj\Debug\Latihan_2_1.exe
+E:\141110523-AGUSTINI\SEMESTER V\Framework\Senin_141110523_Agustini\Latihan_2_1\obj\Debug\Latihan_2_1.pdb
+E:\141110523-AGUSTINI\SEMESTER V\Framework\Senin_141110523_Agustini\Latihan_2_1\obj\Debug\Latihan_2_1.csprojResolveAssemblyReference.cache
+D:\Senin_141110523_Agustini\Latihan_2_1\bin\Debug\Latihan_2_1.exe.config
+D:\Senin_141110523_Agustini\Latihan_2_1\obj\Debug\Latihan_2_1.exe
+D:\Senin_141110523_Agustini\Latihan_2_1\obj\Debug\Latihan_2_1.pdb
+D:\Senin_141110523_Agustini\Latihan_2_1\bin\Debug\Latihan_2_1.exe
+D:\Senin_141110523_Agustini\Latihan_2_1\bin\Debug\Latihan_2_1.pdb
+D:\Senin_141110523_Agustini\Latihan_2_1\obj\Debug\Latihan_2_1.csprojResolveAssemblyReference.cache
+D:\Senin_141110523_Agustini\Latihan_2_1\obj\Debug\Latihan_2_1.Form1.resources
+D:\Senin_141110523_Agustini\Latihan_2_1\obj\Debug\Latihan_2_1.Properties.Resources.resources
+D:\Senin_141110523_Agustini\Latihan_2_1\obj\Debug\Latihan_2_1.csproj.GenerateResource.Cache
