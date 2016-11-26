@@ -1,0 +1,12 @@
+D:\Kuliah\dotNet Lanjutan\VoliC\VoliWinForm\bin\Debug\VoliWinForm.exe.config
+D:\Kuliah\dotNet Lanjutan\VoliC\VoliWinForm\bin\Debug\VoliWinForm.exe
+D:\Kuliah\dotNet Lanjutan\VoliC\VoliWinForm\bin\Debug\VoliWinForm.pdb
+D:\Kuliah\dotNet Lanjutan\VoliC\VoliWinForm\obj\Debug\VoliWinForm.csprojResolveAssemblyReference.cache
+D:\Kuliah\dotNet Lanjutan\VoliC\VoliWinForm\obj\Debug\VoliWinForm.Form1.resources
+D:\Kuliah\dotNet Lanjutan\VoliC\VoliWinForm\obj\Debug\VoliWinForm.Properties.Resources.resources
+D:\Kuliah\dotNet Lanjutan\VoliC\VoliWinForm\obj\Debug\VoliWinForm.csproj.GenerateResource.Cache
+D:\Kuliah\dotNet Lanjutan\VoliC\VoliWinForm\obj\Debug\VoliWinForm.exe
+D:\Kuliah\dotNet Lanjutan\VoliC\VoliWinForm\obj\Debug\VoliWinForm.pdb
+E:\141110523-AGUSTINI\SEMESTER V\Framework\Voli\VoliC\VoliWinForm\bin\Debug\VoliWinForm.exe.config
+E:\141110523-AGUSTINI\SEMESTER V\Framework\Voli\VoliC\VoliWinForm\obj\Debug\VoliWinForm.exe
+E:\141110523-AGUSTINI\SEMESTER V\Framework\Voli\VoliC\VoliWinForm\obj\Debug\VoliWinForm.pdb

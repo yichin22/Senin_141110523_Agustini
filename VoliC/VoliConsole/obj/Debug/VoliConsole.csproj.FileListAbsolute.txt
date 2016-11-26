@@ -1,0 +1,6 @@
+D:\Kuliah\dotNet Lanjutan\VoliC\VoliConsole\bin\Debug\VoliConsole.exe.config
+D:\Kuliah\dotNet Lanjutan\VoliC\VoliConsole\bin\Debug\VoliConsole.exe
+D:\Kuliah\dotNet Lanjutan\VoliC\VoliConsole\bin\Debug\VoliConsole.pdb
+D:\Kuliah\dotNet Lanjutan\VoliC\VoliConsole\obj\Debug\VoliConsole.csprojResolveAssemblyReference.cache
+D:\Kuliah\dotNet Lanjutan\VoliC\VoliConsole\obj\Debug\VoliConsole.exe
+D:\Kuliah\dotNet Lanjutan\VoliC\VoliConsole\obj\Debug\VoliConsole.pdb
